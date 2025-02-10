@@ -1,0 +1,8 @@
+torch
+torchvision
+peft
+wandb
+datasets
+transformers
+scipy
+scikit-learn
