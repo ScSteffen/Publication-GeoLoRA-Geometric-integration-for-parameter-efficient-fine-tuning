@@ -8,4 +8,4 @@ Authors:
 * Emanuele Zangrando
 * Gianluca Ceruti
 * Francesco Tusisco
-* Jonas Kusch
+* Jonas Kusch: jonas.kusch1@gmail.com
